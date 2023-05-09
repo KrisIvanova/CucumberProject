@@ -1,0 +1,6 @@
+com\cucumber\onliner\driver\DriverManager.class
+com\cucumber\onliner\pageobject\Header.class
+com\cucumber\onliner\pageobject\ProductPage.class
+com\cucumber\onliner\pageobject\BasePage.class
+com\cucumber\onliner\pageobject\CartPage.class
+com\cucumber\onliner\pageobject\CatalogPage.class

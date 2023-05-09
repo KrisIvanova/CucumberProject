@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="44.428" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="As a user" name="Docs sections should contains appropriate columns" time="43.194">
+<system-out><![CDATA[
+Given the user opens Onliner website........................................passed
+When the user clicks on the "Каталог" section...............................passed
+And the user clicks on the "Дом и сад" classification.......................passed
+And the user clicks on the "Садовая техника и инструменты" category.........passed
+And the user clicks on the "Триммеры" product...............................passed
+And the user clicks on the product item.....................................passed
+And the user confirms the city..............................................passed
+And the user adds item to cart..............................................passed
+Then cart with product is displayed.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
